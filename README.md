@@ -20,7 +20,7 @@
 
 ### Inference
 
-Infer the video reasoning model (Note: go into qwen-vl-utils source code in the enviroment package, and change the vision_process.py)
+Infer the QwenVL model (Note: go into qwen-vl-utils source code in the enviroment package, and change the vision_process.py)
 
 ```python
 
