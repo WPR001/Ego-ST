@@ -1,5 +1,5 @@
 
-# <img src="./logo.png" alt="Icon" width="50" height="50"> Ego-ST
+# <img src="./logo.png" alt="Icon" width="50" height="50"> ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos
 
 
 
