@@ -16,6 +16,21 @@
     <img src="./teaser.png" alt="ST-Think">
 </p>
 
+## Abstract
+Humans excel at spatio-temporal reasoning, effortlessly interpreting dynamic visual
+events from an egocentric viewpoint. However, whether multimodal large language
+models (MLLMs) can similarly comprehend the 4D world remains uncertain.
+This paper explores multimodal spatio-temporal reasoning from an egocentric
+perspective, aiming to equip MLLMs with human-like reasoning capabilities. To
+support this objective, we introduce Ego-ST Bench, a novel benchmark containing
+over 5,000 question-answer pairs across four categories, systematically evaluating spatial, temporal, and integrated spatio-temporal reasoning. Additionally, we
+propose ST-R1 Video model, a video-based reasoning model that incorporates
+reverse thinking into its reinforcement learning process, significantly enhancing
+performance. We combine long-chain-of-thought (long-CoT) supervised finetuning with Group Relative Policy Optimization (GRPO) reinforcement learning,
+achieving notable improvements with limited high-quality data. Ego-ST Bench
+and ST-R1 provide valuable insights and resources for advancing video-based
+spatio-temporal reasoning research.
+
 ## TODO and Timeline
 
 ### TODO
