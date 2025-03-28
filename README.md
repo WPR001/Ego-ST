@@ -1,5 +1,19 @@
 # Ego-ST
 
+
+
+
+<p align="center">
+  <a href="https://arxiv.org/abs/2503.12542" target='_**blank**'>
+    <img src="https://img.shields.io/badge/arXiv-2503.12542📖-bron?">
+  </a> 
+  <a href="https://huggingface.co/datasets/openinterx/Ego-ST-bench" target='_blank'>
+    <img src="https://img.shields.io/badge/Huggingface%20Models-🤗-blue">
+  </a>
+</p>
+
+
+
 [🤗 Models](https://huggingface.co/openinterx/ST-R1-mcq) | [🤗 Datasets](https://huggingface.co/datasets/openinterx/Ego-ST-bench)
 
 ## TODO and Timeline
