@@ -3,7 +3,7 @@
 
 
 
-<p align="center">
+<p align="left">
   <a href="https://arxiv.org/abs/2503.12542" target='_**blank**'>
     <img src="https://img.shields.io/badge/arXiv-2503.12542📖-bron?">
   </a> 
