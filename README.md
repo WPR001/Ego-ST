@@ -1,5 +1,5 @@
-# Ego-ST
 
+# <img src="./logo.png" alt="Icon" width="100" height="50"> Ego-ST
 
 
 
