@@ -1,7 +1,9 @@
 
 # <img src="./logo.png" alt="Icon" width="50" height="50"> Ego-ST
 
-
+<p align="center">
+    <img src="./teaser.png" alt="ST-Think">
+</p>
 
 <p align="left">
   <a href="https://arxiv.org/abs/2503.12542" target='_**blank**'>
