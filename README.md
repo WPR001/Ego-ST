@@ -34,6 +34,7 @@ spatio-temporal reasoning research.
 ## TODO and Timeline
 
 ### TODO
+- :fire: We will post the latest version of paper in github.
 - :fire: We are planning to propose a new framework wih General Spatial Temporal Reasoning ability.
 
 
@@ -126,4 +127,18 @@ Then run the code.
 
 ```
 python ./infer_code/ST-R1_mcq/mcq_infer.py
+```
+
+
+## Citations
+
+If you find our work helpful for your research, please consider citing our work.   
+
+```
+@article{wu2025st,
+  title={ST-Think: How Multimodal Large Language Models Reason About 4D Worlds from Ego-Centric Videos},
+  author={Wu, Peiran and Liu, Yunze and Liu, Chonghan and Liu, Miao and Shen, Junxiao},
+  journal={arXiv preprint arXiv:2503.12542},
+  year={2025}
+}
 ```
