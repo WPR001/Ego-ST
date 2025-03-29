@@ -34,15 +34,14 @@ spatio-temporal reasoning research.
 ## TODO and Timeline
 
 ### TODO
-
-- :fire: We will release ST-R1 training code, where the entire cold start and GRPO training process can be completed **using 4 x H100 GPUs**.
-- :fire: We are planning to train the 16 frames version.
+- :fire: We are planning to propose a new framework wih General Spatial Temporal Reasoning ability.
 
 
 ### Timeline
 
 - :fire: We have released the **benchmark datasets and inference code**
 - :fire: We are working on new Spatial Temporal Reasoning Model (Not just handle route description)
+- :fire: We have released ST-R1 training code, where the entire cold start and GRPO training process.
 
 
 
