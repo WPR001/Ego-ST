@@ -42,7 +42,7 @@ spatio-temporal reasoning research.
 ### Timeline
 
 - :fire: We have released the **benchmark datasets and inference code**
-- :fire: We have released the **ST-R1 Model Checkpoints**
+- :fire: We are working on new Spatial Temporal Reasoning Model (Not just handle route description)
 
 
 
