@@ -5,7 +5,7 @@
 
 <p align="left">
   <a href="./ST_Think__How_Multimodal_Large_Language_Models_Reason_About_4D_Worlds_from_Ego_Centric_Videos.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/PDF_Latest-Version-blue">
+    <img src="https://img.shields.io/badge/Paper_Latest-Version-blue">
   </a> 
   <a href="https://arxiv.org/abs/2503.12542" target='_**blank**'>
     <img src="https://img.shields.io/badge/arXiv-2503.12542📖-bron?">
