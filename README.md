@@ -7,8 +7,8 @@
   <a href="./ST_Think__How_Multimodal_Large_Language_Models_Reason_About_4D_Worlds_from_Ego_Centric_Videos.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Paper_Latest-Version-blue">
   </a> 
-  <a href="https://arxiv.org/abs/2503.12542" target='_**blank**'>
-    <img src="https://img.shields.io/badge/arXiv-2503.12542📖-bron?">
+  <a href="https://arxiv.org/pdf/2503.12542v2" target='_**blank**'>
+    <img src="https://img.shields.io/badge/arXiv-2503.12542v2📖-bron?">
   </a> 
   <a href="https://huggingface.co/datasets/openinterx/Ego-ST-bench" target='_blank'>
     <img src="https://img.shields.io/badge/Huggingface%20Models-🤗-blue">
