@@ -10,7 +10,7 @@
   <a href="https://arxiv.org/pdf/2503.12542v2" target='_**blank**'>
     <img src="https://img.shields.io/badge/arXiv-2503.12542v2📖-bron?">
   </a> 
-  <a href="https://huggingface.co/datasets/openinterx/Ego-ST-bench" target='_blank'>
+  <a href="https://huggingface.co/collections/openinterx/st-think-684745a22833bfda73c5bd82" target='_blank'>
     <img src="https://img.shields.io/badge/Huggingface%20Models-🤗-blue">
   </a>
 </p>
